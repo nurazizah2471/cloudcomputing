@@ -1,0 +1,1 @@
+part of 'package:api_raja_ongkir/shared/shared.dart';
